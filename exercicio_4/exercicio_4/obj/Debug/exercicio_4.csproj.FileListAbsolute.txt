@@ -1,0 +1,5 @@
+D:\lista de exercicios 2\exercicio_4\exercicio_4\bin\Debug\exercicio_4.exe.config
+D:\lista de exercicios 2\exercicio_4\exercicio_4\bin\Debug\exercicio_4.exe
+D:\lista de exercicios 2\exercicio_4\exercicio_4\bin\Debug\exercicio_4.pdb
+D:\lista de exercicios 2\exercicio_4\exercicio_4\obj\Debug\exercicio_4.exe
+D:\lista de exercicios 2\exercicio_4\exercicio_4\obj\Debug\exercicio_4.pdb

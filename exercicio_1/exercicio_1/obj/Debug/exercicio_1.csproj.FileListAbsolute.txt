@@ -1,0 +1,7 @@
+D:\lista de exercicios 2\exercicio_1\exercicio_1\bin\Debug\exercicio_1.exe.config
+G:\lista de exercicios 2\exercicio_1\exercicio_1\bin\Debug\exercicio_1.exe.config
+G:\lista de exercicios 2\exercicio_1\exercicio_1\bin\Debug\exercicio_1.exe
+G:\lista de exercicios 2\exercicio_1\exercicio_1\bin\Debug\exercicio_1.pdb
+G:\lista de exercicios 2\exercicio_1\exercicio_1\obj\Debug\exercicio_1.csprojResolveAssemblyReference.cache
+G:\lista de exercicios 2\exercicio_1\exercicio_1\obj\Debug\exercicio_1.exe
+G:\lista de exercicios 2\exercicio_1\exercicio_1\obj\Debug\exercicio_1.pdb
