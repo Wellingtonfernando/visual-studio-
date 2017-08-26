@@ -1,0 +1,5 @@
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio08\bin\Debug\lista_exercicio08.exe.config
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio08\bin\Debug\lista_exercicio08.exe
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio08\bin\Debug\lista_exercicio08.pdb
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio08\obj\Debug\lista_exercicio08.exe
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio08\obj\Debug\lista_exercicio08.pdb
