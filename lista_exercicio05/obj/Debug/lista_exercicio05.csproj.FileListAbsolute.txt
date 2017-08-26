@@ -1,0 +1,6 @@
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio05\bin\Debug\lista_exercicio05.exe.config
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio05\obj\Debug\lista_exercicio05.csprojResolveAssemblyReference.cache
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio05\bin\Debug\lista_exercicio05.exe
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio05\bin\Debug\lista_exercicio05.pdb
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio05\obj\Debug\lista_exercicio05.exe
+C:\Users\alunonoturno\Documents\lista de exercicios\ConsoleApplication1\lista_exercicio05\obj\Debug\lista_exercicio05.pdb
